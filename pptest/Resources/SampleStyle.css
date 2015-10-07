@@ -1,0 +1,14 @@
+/*
+    place extra stylesheet here
+*/
+h2 {
+    font-size: 0.8em;
+    -webkit-margin-after: 0px;
+}
+h1, p#documentMetadata {
+    display: none;
+}
+
+.ImageContainer img {
+    border: solid 2px #999;
+}
